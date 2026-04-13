@@ -1,5 +1,5 @@
 {
-  "_id": "tcllydzuzq35zaaj",
+  "_id": "ugmrdujw63sh1vih",
   "name": "Goblin's Grotto",
   "type": "Scene",
   "active": false,
@@ -23,11 +23,11 @@
     "y": 1200,
     "scale": 1
   },
-  "backgroundColor": "#2a2a2a",
+  "backgroundColor": "#1a1a1a",
   "grid": {
     "type": 1,
     "size": 100,
-    "color": "#444444",
+    "color": "#333333",
     "alpha": 0.2,
     "distance": 5,
     "units": "ft"
@@ -36,9 +36,9 @@
   "fogExploration": true,
   "lights": [
     {
-      "_id": "xq8o1ohsv3onu5bd",
-      "x": 1473,
-      "y": 1621,
+      "_id": "31lq0niwx7y1ht41",
+      "x": 1440,
+      "y": 1565,
       "rotation": 0,
       "walls": true,
       "vision": true,
@@ -67,16 +67,16 @@
       "flags": {}
     },
     {
-      "_id": "axjy5xtktr7qju3i",
-      "x": 1664,
-      "y": 1286,
+      "_id": "ldsdbqmqnvdf3hsr",
+      "x": 2578,
+      "y": 2067,
       "rotation": 0,
       "walls": true,
       "vision": true,
       "config": {
         "angle": 360,
         "bright": 10,
-        "color": "#ffaa00",
+        "color": "#ff4400",
         "coloration": 1,
         "dim": 20,
         "attenuation": 0.5,
@@ -85,38 +85,7 @@
         "contrast": 0,
         "shadows": 0,
         "animation": {
-          "type": "torch",
-          "speed": 5,
-          "intensity": 5
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {}
-    },
-    {
-      "_id": "s3n5jir9dhfihxa2",
-      "x": 938,
-      "y": 1131,
-      "rotation": 0,
-      "walls": true,
-      "vision": true,
-      "config": {
-        "angle": 360,
-        "bright": 5,
-        "color": "#ffcc80",
-        "coloration": 1,
-        "dim": 10,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": "torch",
+          "type": "pulse",
           "speed": 5,
           "intensity": 5
         },
@@ -131,101 +100,9 @@
   ],
   "walls": [
     {
-      "_id": "z417kax812u34384",
+      "_id": "n039n4rackozwvso",
       "c": [
         200,
-        200,
-        1450,
-        200
-      ],
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "flags": {},
-      "light": 1,
-      "move": 1,
-      "sight": 1,
-      "sound": 1,
-      "threshold": {
-        "attenuation": true,
-        "light": true,
-        "sight": true,
-        "sound": true
-      }
-    },
-    {
-      "_id": "66xlmp4gco9gxgrs",
-      "c": [
-        200,
-        2200,
-        1450,
-        2200
-      ],
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "flags": {},
-      "light": 1,
-      "move": 1,
-      "sight": 1,
-      "sound": 1,
-      "threshold": {
-        "attenuation": true,
-        "light": true,
-        "sight": true,
-        "sound": true
-      }
-    },
-    {
-      "_id": "p1zc51rl4w7eh7ka",
-      "c": [
-        200,
-        200,
-        200,
-        2200
-      ],
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "flags": {},
-      "light": 1,
-      "move": 1,
-      "sight": 1,
-      "sound": 1,
-      "threshold": {
-        "attenuation": true,
-        "light": true,
-        "sight": true,
-        "sound": true
-      }
-    },
-    {
-      "_id": "tn846zyhnjozkdwt",
-      "c": [
-        1450,
-        200,
-        1450,
-        2200
-      ],
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "flags": {},
-      "light": 1,
-      "move": 1,
-      "sight": 1,
-      "sound": 1,
-      "threshold": {
-        "attenuation": true,
-        "light": true,
-        "sight": true,
-        "sound": true
-      }
-    },
-    {
-      "_id": "atl9z3ny38dnob8q",
-      "c": [
-        1500,
         200,
         2750,
         200
@@ -246,9 +123,9 @@
       }
     },
     {
-      "_id": "ohonkannku9bgvha",
+      "_id": "jj1n2n9xhwqy8md7",
       "c": [
-        1500,
+        200,
         2200,
         2750,
         2200
@@ -269,11 +146,11 @@
       }
     },
     {
-      "_id": "y8hz1x4srfcju2d3",
+      "_id": "i2b889ths2qa46hx",
       "c": [
-        1500,
         200,
-        1500,
+        200,
+        200,
         2200
       ],
       "dir": 0,
@@ -292,7 +169,7 @@
       }
     },
     {
-      "_id": "gvj7z6bpr9zzru6v",
+      "_id": "3es7xkt4ymi2zqia",
       "c": [
         2750,
         200,

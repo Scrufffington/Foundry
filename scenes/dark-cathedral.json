@@ -1,5 +1,5 @@
 {
-  "_id": "omdl56uo20gn4ki4",
+  "_id": "36d99e9xic43332b",
   "name": "Dark Cathedral",
   "type": "Scene",
   "active": false,
@@ -36,16 +36,16 @@
   "fogExploration": true,
   "lights": [
     {
-      "_id": "y8h1ewfc6gojmn60",
-      "x": 625,
-      "y": 1977,
+      "_id": "nyzkw7juymcvinpq",
+      "x": 2002,
+      "y": 2807,
       "rotation": 0,
       "walls": true,
       "vision": true,
       "config": {
         "angle": 360,
         "bright": 10,
-        "color": "#ff0000",
+        "color": "#ffffff",
         "coloration": 1,
         "dim": 20,
         "attenuation": 0.5,
@@ -54,7 +54,100 @@
         "contrast": 0,
         "shadows": 0,
         "animation": {
-          "type": "roiling",
+          "type": "sunburst",
+          "speed": 5,
+          "intensity": 5
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {}
+    },
+    {
+      "_id": "djuusl4yvt8gz3ey",
+      "x": 1643,
+      "y": 2840,
+      "rotation": 0,
+      "walls": true,
+      "vision": true,
+      "config": {
+        "angle": 360,
+        "bright": 5,
+        "color": "#ffcc80",
+        "coloration": 1,
+        "dim": 10,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "torch",
+          "speed": 5,
+          "intensity": 5
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {}
+    },
+    {
+      "_id": "mzbsgfuybz9nwaph",
+      "x": 4393,
+      "y": 1840,
+      "rotation": 0,
+      "walls": true,
+      "vision": true,
+      "config": {
+        "angle": 360,
+        "bright": 5,
+        "color": "#ffcc80",
+        "coloration": 1,
+        "dim": 10,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "torch",
+          "speed": 5,
+          "intensity": 5
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {}
+    },
+    {
+      "_id": "w5ne2dw5e1jo4x3k",
+      "x": 1840,
+      "y": 1806,
+      "rotation": 0,
+      "walls": true,
+      "vision": true,
+      "config": {
+        "angle": 360,
+        "bright": 5,
+        "color": "#ffcc80",
+        "coloration": 1,
+        "dim": 10,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "torch",
           "speed": 5,
           "intensity": 5
         },
@@ -69,7 +162,7 @@
   ],
   "walls": [
     {
-      "_id": "eleze93q141vb1af",
+      "_id": "axzbmyj87xo0hiqb",
       "c": [
         200,
         200,
@@ -92,7 +185,7 @@
       }
     },
     {
-      "_id": "m2x9y76ng8nq6jo6",
+      "_id": "oy8ih8ti73c8g2b7",
       "c": [
         200,
         3800,
@@ -115,7 +208,7 @@
       }
     },
     {
-      "_id": "x8z0n5j63r6xyytg",
+      "_id": "bto3si50iwfv8n73",
       "c": [
         200,
         200,
@@ -138,7 +231,7 @@
       }
     },
     {
-      "_id": "29xf8io4xqgd044y",
+      "_id": "kgznajnv2r81ffcc",
       "c": [
         4750,
         200,
