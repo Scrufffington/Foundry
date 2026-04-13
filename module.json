@@ -1,7 +1,7 @@
 {
   "id": "scruf-scenes",
   "title": "Scruf's Scene Collection",
-  "description": "Auto-generated DnD scenes from Jr's Scene Builder. Scenes are located in the scenes/ folder of this module.",
+  "description": "Auto-generated DnD scenes from Jr's Scene Builder",
   "version": "1.0.0",
   "authors": [
     {
@@ -17,5 +17,14 @@
   "download": "https://github.com/Scrufffington/Foundry/archive/refs/heads/main.zip",
   "readme": "https://raw.githubusercontent.com/Scrufffington/Foundry/main/README.md",
   "bugs": "https://github.com/Scrufffington/Foundry/issues",
-  "changelog": "https://raw.githubusercontent.com/Scrufffington/Foundry/main/CHANGELOG.md"
+  "changelog": "https://raw.githubusercontent.com/Scrufffington/Foundry/main/CHANGELOG.md",
+  "packs": [
+    {
+      "name": "jr-scenes",
+      "label": "Jr's Scene Collection",
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "private": false
+    }
+  ]
 }
