@@ -1,7 +1,7 @@
 {
   "id": "scruf-scenes",
   "title": "Scruf's Scene Collection",
-  "description": "Auto-generated DnD scenes from Jr's Scene Builder",
+  "description": "Auto-generated DnD scenes from Jr's Scene Builder. Scenes are located in the scenes/ folder of this module.",
   "version": "1.0.0",
   "authors": [
     {
