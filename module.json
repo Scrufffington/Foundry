@@ -1,0 +1,21 @@
+{
+  "id": "scruf-scenes",
+  "title": "Scruf's Scene Collection",
+  "description": "Auto-generated DnD scenes from Jr's Scene Builder",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Scruf",
+      "url": "https://github.com/Scrufffington"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "manifest": "https://raw.githubusercontent.com/Scrufffington/Foundry/main/module.json",
+  "download": "https://github.com/Scrufffington/Foundry/archive/refs/heads/main.zip",
+  "readme": "https://raw.githubusercontent.com/Scrufffington/Foundry/main/README.md",
+  "bugs": "https://github.com/Scrufffington/Foundry/issues",
+  "changelog": "https://raw.githubusercontent.com/Scrufffington/Foundry/main/CHANGELOG.md"
+}

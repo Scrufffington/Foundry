@@ -1,0 +1,171 @@
+{
+  "_id": "tp0ib060guepoumn",
+  "name": "Dark Cathedral",
+  "type": "Scene",
+  "active": false,
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scale": 1
+  },
+  "foreground": null,
+  "foregroundElevation": null,
+  "thumb": null,
+  "width": 5000,
+  "height": 4000,
+  "padding": 0.25,
+  "initial": {
+    "x": 2500,
+    "y": 2000,
+    "scale": 1
+  },
+  "backgroundColor": "#2a2520",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#443f3a",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "lights": [
+    {
+      "_id": "p324f2nfk7vahn1l",
+      "x": 426,
+      "y": 1554,
+      "rotation": 0,
+      "walls": true,
+      "vision": true,
+      "config": {
+        "angle": 360,
+        "bright": 10,
+        "color": "#ff0000",
+        "coloration": 1,
+        "dim": 20,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "roiling",
+          "speed": 5,
+          "intensity": 5
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {}
+    }
+  ],
+  "walls": [
+    {
+      "_id": "7g8nv5ofszm3fmcd",
+      "c": [
+        200,
+        200,
+        4750,
+        200
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 1,
+      "move": 1,
+      "sight": 1,
+      "sound": 1,
+      "threshold": {
+        "attenuation": true,
+        "light": true,
+        "sight": true,
+        "sound": true
+      }
+    },
+    {
+      "_id": "5889u6i61ix6nzhm",
+      "c": [
+        200,
+        3800,
+        4750,
+        3800
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 1,
+      "move": 1,
+      "sight": 1,
+      "sound": 1,
+      "threshold": {
+        "attenuation": true,
+        "light": true,
+        "sight": true,
+        "sound": true
+      }
+    },
+    {
+      "_id": "7lqa6b06nzxkrh3y",
+      "c": [
+        200,
+        200,
+        200,
+        3800
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 1,
+      "move": 1,
+      "sight": 1,
+      "sound": 1,
+      "threshold": {
+        "attenuation": true,
+        "light": true,
+        "sight": true,
+        "sound": true
+      }
+    },
+    {
+      "_id": "r8pds3lud8zjzuj4",
+      "c": [
+        4750,
+        200,
+        4750,
+        3800
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 1,
+      "move": 1,
+      "sight": 1,
+      "sound": 1,
+      "threshold": {
+        "attenuation": true,
+        "light": true,
+        "sight": true,
+        "sound": true
+      }
+    }
+  ],
+  "template": [],
+  "tiles": [],
+  "tokens": [],
+  "sounds": [],
+  "drawings": [],
+  "notes": [],
+  "weather": ""
+}
