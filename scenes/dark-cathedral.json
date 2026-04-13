@@ -1,5 +1,5 @@
 {
-  "_id": "tp0ib060guepoumn",
+  "_id": "omdl56uo20gn4ki4",
   "name": "Dark Cathedral",
   "type": "Scene",
   "active": false,
@@ -36,9 +36,9 @@
   "fogExploration": true,
   "lights": [
     {
-      "_id": "p324f2nfk7vahn1l",
-      "x": 426,
-      "y": 1554,
+      "_id": "y8h1ewfc6gojmn60",
+      "x": 625,
+      "y": 1977,
       "rotation": 0,
       "walls": true,
       "vision": true,
@@ -69,7 +69,7 @@
   ],
   "walls": [
     {
-      "_id": "7g8nv5ofszm3fmcd",
+      "_id": "eleze93q141vb1af",
       "c": [
         200,
         200,
@@ -92,7 +92,7 @@
       }
     },
     {
-      "_id": "5889u6i61ix6nzhm",
+      "_id": "m2x9y76ng8nq6jo6",
       "c": [
         200,
         3800,
@@ -115,7 +115,7 @@
       }
     },
     {
-      "_id": "7lqa6b06nzxkrh3y",
+      "_id": "x8z0n5j63r6xyytg",
       "c": [
         200,
         200,
@@ -138,7 +138,7 @@
       }
     },
     {
-      "_id": "r8pds3lud8zjzuj4",
+      "_id": "29xf8io4xqgd044y",
       "c": [
         4750,
         200,
@@ -163,7 +163,6 @@
   ],
   "template": [],
   "tiles": [],
-  "tokens": [],
   "sounds": [],
   "drawings": [],
   "notes": [],
